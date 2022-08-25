@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2016/04/04/14/12/monitor-1307227_960_720.jpg)]
+
 <h1 align="center">Hi 👋, I'm Ratnesh Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="codding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
